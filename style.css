@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.container {
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.back-link {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.back-link a {
+    color: #0000ee;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #0000ff;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #0000ff;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 12px;
+}
+
+p {
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+.red-bold {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.blue-italic {
+    color: #0000ff;
+    font-style: italic;
+}
